@@ -7,16 +7,16 @@ return [
 	'retailers' => [
 		'Target'  => [
 			'checker' => 'TargetChecker',
-			'sku'     => '207-29-0180',
+			'sku'     => '056-02-0317',
 		],
 		'Walmart' => [
 			'checker' => 'WalmartChecker',
-			'sku'     => '54043501',
+			'sku'     => '39457196',
 		],
 		/*
 		'BestBuy' => [
 			'checker' => 'BestBuyChecker',
-			'sku'     => '5389100',
+			'sku'     => '5792401',
 		],
 		'ToysRUs' => [
 			'checker' => 'ToysRUsChecker',
