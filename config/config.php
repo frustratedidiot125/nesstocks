@@ -20,7 +20,7 @@ return [
 		],
 		'ToysRUs' => [
 			'checker' => 'ToysRUsChecker',
-			'sku'     => [24607614, 106283536],
+			'sku'     => [590406],
 		],
 		*/
 	],
